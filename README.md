@@ -2,9 +2,6 @@
 
 This repository contains a simple soccer-themed click game implemented using p5.js. The game allows players to drag a ball into a goal to score points. It's a fun project to experiment with interactive web development using JavaScript and the p5.js library.
 
-## Game Preview
-![Soccer Click Game](game_preview.gif)
-
 ## How to Play
 1. Drag the ball into the goal to score points.
 2. Each successful goal increases the player's score.
